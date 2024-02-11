@@ -1,0 +1,20 @@
+/* This is a styling page for the entire app */
+.App {
+  background-color: #282c34;
+  min-height: 100vh;
+  color: white;
+}
+
+.header {
+  text-align: center;
+  padding: 8% 0 4% 0;
+}
+
+.header h1 {
+  font-size: 3em;
+}
+
+.Archived_true {
+  text-decoration: line-through;
+  color: #282c34;
+}

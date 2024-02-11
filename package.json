@@ -1,0 +1,21 @@
+{
+  "name": "l4t33-maintenance_management",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "maintenance management app for jobs in the work area",
+  "main": "api.js",
+  "scripts": {
+    "start": "nodemon api.js",
+    "test": "test"
+  },
+  "author": "Ian Basson",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "16.4.1",
+    "express": "4.18.2",
+    "mongoose": "8.1.1"
+  },
+  "devDependencies": {
+    "nodemon": "3.0.3"
+  }
+}
